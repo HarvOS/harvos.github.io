@@ -118,3 +118,7 @@ Feel free to open an **issue** or **discussion** in the repository to collaborat
 ---
 
 [Privacy Policy](/privacy-policy) | [Imprint](/imprint) 
+
+---
+
+(c) 2025 Dennis Michael Heine. All rights reserved.
