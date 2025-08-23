@@ -137,5 +137,6 @@ The privacy policy comes from https://kapitel26.github.io
 
 The content of this privacy policy has been copied from https://kapitel26.github.io 
 
-===
+---
+
 [Privacy Policy](/privacy-policy) | [Imprint](/imprint) 
