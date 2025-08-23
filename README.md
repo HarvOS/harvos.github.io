@@ -114,3 +114,7 @@ HarvOS has been created using ChatGPT 5
 ## 📧 Contact
 
 Feel free to open an **issue** or **discussion** in the repository to collaborate.  
+
+===
+
+[Privacy Policy](/privacy-policy) | [Imprint](/imprint) 
