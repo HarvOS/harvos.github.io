@@ -2,7 +2,7 @@
 A secure server ecosystem
 
 ---
-[CPU GitHub](https://github.com/HarvOS/HarvOS-CPU) | [CPU MiSTEr FPGA GitHub](https://github.com/HarvOS/HarvOS-CPU)
+[CPU GitHub](https://github.com/HarvOS/HarvOS-CPU) | [CPU MiSTEr FPGA GitHub](https://github.com/HarvOS/HarvOS-MiSTEr-FPGA)
 ---
 
 # HarvOS — A Secure Harvard-Architecture Operating System & CPU
