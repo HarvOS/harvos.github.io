@@ -3,6 +3,7 @@ A secure server ecosystem
 
 ---
 [CPU GitHub](https://github.com/HarvOS/HarvOS-CPU) | [CPU MiSTEr FPGA GitHub](https://github.com/HarvOS/HarvOS-MiSTEr-FPGA)
+
 ---
 
 # HarvOS — A Secure Harvard-Architecture Operating System & CPU
@@ -113,6 +114,7 @@ HarvOS is at a **research/vision stage**. Contributions are welcome in:
 This is an experimental project and not production-ready.  
 It is intended for research, prototyping, and exploration of secure system design.  
 HarvOS has been created using ChatGPT 5
+
 ---
 
 ## 📧 Contact
