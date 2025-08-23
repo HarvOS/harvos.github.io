@@ -27,7 +27,7 @@ and what it is used for.
 ### Why do we process your data?
 
 
- * Publication of blog posts on this website [harvos.github.io](https://harvos.github.io) for your benefit and our fame.
+ * Publication of blog posts on this website [harvos.github.io](https://harvos.github.io) / [harvos.dev](https://harvos.dev) for your benefit and our fame.
 
  * To enable you to contact us by email, phone or social media to get feedback on the blog, to resolve issues or if you want to hire us as a consultant or trainer.
 
