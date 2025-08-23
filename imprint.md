@@ -1,3 +1,7 @@
+layout: page
+title: "Imprint"
+permalink: /imprint
+
 Respsonsible person for this webpage is
 <br>
 Dennis Michael Heine<br>
