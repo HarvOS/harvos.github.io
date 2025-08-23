@@ -1,6 +1,10 @@
 # HarvOS
 A secure server ecosystem
 
+---
+[CPU GitHub](https://github.com/HarvOS/HarvOS-CPU) | [CPU MiSTEr FPGA GitHub](https://github.com/HarvOS/HarvOS-CPU)
+---
+
 # HarvOS — A Secure Harvard-Architecture Operating System & CPU
 
 HarvOS is a research concept for a **secure, minimalistic operating system and processor design** that prioritizes *trustworthiness over raw performance*.  
