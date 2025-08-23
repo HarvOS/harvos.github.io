@@ -9,3 +9,7 @@ Faberstr. 12<br>
 39122 Magdeburg<br>
 <br>
 Contact: info@dennis-heine.de
+
+===
+
+[Privacy Policy](/privacy-policy) | [Imprint](/imprint) 
