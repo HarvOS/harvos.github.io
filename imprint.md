@@ -10,6 +10,6 @@ Faberstr. 12<br>
 <br>
 Contact: info@dennis-heine.de
 
-===
+---
 
 [Privacy Policy](/privacy-policy) | [Imprint](/imprint) 
