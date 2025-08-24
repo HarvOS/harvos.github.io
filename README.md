@@ -52,6 +52,9 @@ It introduces a novel combination of **Harvard separation**, **MMU**, and **MPU*
 
 A full technical whitepaper (~100 pages) is available in the repo under  
 [`docs/HarvOS_Whitepaper.pdf`](docs/HarvOS_Whitepaper.pdf).  
+The log of the ChatGPT session which did produce the whitepaper
+[`docs/ChatGPT Log HarvOS Design.pdf`](docs/ChatGPT+Log+HarvOS+Design.pdf).  
+
 
 It includes:
 - Instruction semantics with pseudocode
